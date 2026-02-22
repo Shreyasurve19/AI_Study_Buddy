@@ -18,11 +18,17 @@ Hindi
 Spanish
 French
 
+## How to Use 🖱️
+You can **use the app directly online**—no installation needed:  
+[Open AI Study Buddy by using ➡️ (https://huggingface.co/spaces/shreyasurve05/ai_study_buddy)]
+
+
 ## Project Files
 - `app.py` – Main Python application  
 - `requirements.txt` – Python dependencies  
-- `AI_study_buddy_testing.ipynb` – Experiments and code testing  
-- `SS/` – Glimpses of app and it's working  
+- `SS/` – Glimpses of app and it's working
+- `AI_study_buddy_testing.ipynb` – **Development/testing notebook** (contains API key placeholders; **not required** for users)
+⚠️ Users do **not need** `AI_study_buddy_testing.ipynb` to run or use the app. It’s only for experimenting and development purposes.  
    
 **Author**
 Shreya Surve
