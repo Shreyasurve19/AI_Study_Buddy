@@ -1,6 +1,6 @@
-# AI Study Buddy:rocket:
+# AI Study Buddy🚀
 
-AI Study Buddy is an AI-powered tool designed to help students study smarter.:books:  
+AI Study Buddy is an AI-powered tool designed to help students study smarter.📚  
 It **explains topics in simple words, summarizes notes, generates quizzes and flashcards**.# AI Study Buddy
 
 ## Features
